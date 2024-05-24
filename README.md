@@ -16,14 +16,6 @@ This is a web application built with React, Node.js, Express, and MongoDB, that 
   - dotenv
   - react-tooltip
 
- **Backend**
-  - Express
-  - Mongoose
-  - Body-parser
-  - CORS
-  - dotenv
-  - nodemailer
-
 ## Getting Started
 
 To run this application locally, follow these steps:
